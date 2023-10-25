@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm currently working on software development<br>I'm looking to collaborate on system development, web development, and payment integration<br>I'm currently learning software development best practices<br>Ask me about React<br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirubel-girmay-886966175) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12676229) 
 
@@ -13,7 +12,7 @@ I'm currently working on software development<br>I'm looking to collaborate on s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-software&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kira-software&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Kira-software&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
