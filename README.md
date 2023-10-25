@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Software Development<br>
+I'm currently working on software development<br>I'm looking to collaborate on system development, web development, and payment integration<br>I'm currently learning software development best practices<br>Ask me about React<br>Fun fact - eat, sleep, code
 
 
 ## 🌐 Socials:
