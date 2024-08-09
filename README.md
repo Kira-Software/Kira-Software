@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on software development<br>I'm looking to collaborate on system development, web development, and payment integration<br>I'm currently learning software development best practices<br>Ask me about React<br>
+I'm currently working on software development<br>I'm looking to collaborate on system development, web development, and payment integration<br>I'm currently learning software development best practices<br>Ask me about Web Application Development, Payment Integration, Server Configuration and Deployment, CRM System...<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirubel-girmay-886966175) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12676229) 
